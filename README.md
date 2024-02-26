@@ -57,6 +57,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Accessing Swagger Api
+localhost:3000/api
 
 ## Support
 
